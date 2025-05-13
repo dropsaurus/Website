@@ -1,3 +1,3 @@
 # neil
 
-build fast and build clean
+This is an ode to build fast and clean.
